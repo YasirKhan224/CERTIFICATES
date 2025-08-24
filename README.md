@@ -11,15 +11,15 @@ It serves as a portfolio of my learning journey and achievements.
 ---
 
 ## 📊 Data Analytics & Visualization
-- [Excel Certificate](link-to-certificate)
-- [Power BI Certificate](link-to-certificate)
-- [SQL Certificate](link-to-certificate)
-- [Python for Data Analysis](link-to-certificate)
-- [Data Analyst _ SkilloVilla ](link-to-certificate)
+- [Excel Certificate](https://github.com/YasirKhan224/CERTIFICATES/blob/main/Excel.jpg)
+- [Power BI Certificate](https://github.com/YasirKhan224/CERTIFICATES/blob/main/POWERBI.jpg)
+- [SQL Certificate](https://github.com/YasirKhan224/CERTIFICATES/blob/main/SQL.jpg)
+- [Python for Data Analysis](https://github.com/YasirKhan224/CERTIFICATES/blob/main/Python.jpg)
+- [Data Analyst _ SkilloVilla ](https://github.com/YasirKhan224/CERTIFICATES/blob/main/Certificate_Skillovilla.pdf)
 ---
 
 ## 🏅 Internship & Projects
 - **Data Analyst Intern @ CloudyML (June–July 2024)**  
-  [Internship_CloudyML_Data Analyst](link-to-certificate)
+  [Internship_CloudyML_Data Analyst](https://github.com/YasirKhan224/CERTIFICATES/blob/main/Internship_CloudyMl.pdf)
 
 ---
